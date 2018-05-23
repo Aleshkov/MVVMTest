@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     }()
     
     let mamba = 1
+    let salo = 2
 
     override func viewDidLoad() {
         super.viewDidLoad()
