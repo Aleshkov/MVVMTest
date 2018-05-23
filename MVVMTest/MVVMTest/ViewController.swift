@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         return tv
     }()
     
+    let mamba = 1
 
     override func viewDidLoad() {
         super.viewDidLoad()
