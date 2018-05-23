@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     
     let mamba = 1
     let salo = 2
+    
+    let pev = "pew"
 
     override func viewDidLoad() {
         super.viewDidLoad()
