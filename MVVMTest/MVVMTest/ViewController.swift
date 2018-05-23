@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         return tv
     }()
     
+    let guro = "faraoh"
 
     override func viewDidLoad() {
         super.viewDidLoad()
